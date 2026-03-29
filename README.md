@@ -1,4 +1,3 @@
-# ETTrendIntel
 
 # ET TradeIntel — Supply Chain × Market Intelligence
 
